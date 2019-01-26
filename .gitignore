@@ -1,0 +1,9 @@
+.vs/
+build/
+*.filters
+*.user
+intro.asm
+main_win_rel.asm
+ext.asm
+src/shader.inl
+src/music.asm
