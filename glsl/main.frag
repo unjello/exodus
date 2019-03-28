@@ -1,10 +1,14 @@
-/// Shader for 4k intro Exodus / Aberration Creations
+/// Exodus / Aberration Creations, a 4k intro
+/// 3rd place @ MAGFest 2019
 /// License: CC0
 ///
 /// Effects inspired by:
 /// Octahedral Voxel Tracing / fizzer: https://www.shadertoy.com/view/4lcfDB
 /// Swirly Strands / Plento: https://www.shadertoy.com/view/MtKfWy
 /// InFX.1 / patu: https://www.shadertoy.com/view/llSSRm
+///
+/// Available at ShaderToy too:
+/// https://www.shadertoy.com/view/wdBSWW
 ///
 
 uniform vec4 Z;
